@@ -9,7 +9,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Screenshot](sk1.png)
   - [Screenshot](sk2.png)
   - [Links](https://github.com/H-wq-prog/three-card.git)
-- [My process](#my-process)
+- [My process](https://h-wq-prog.github.io/three-card/)
   
 ### Built with
 
