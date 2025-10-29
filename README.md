@@ -8,7 +8,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [The challenge](#the-challenge)
   - [Screenshot](sk1.png)
   - [Screenshot](sk2.png)
-  - [Links](#links)
+  - [Links](https://github.com/H-wq-prog/three-card.git)
 - [My process](#my-process)
   
 ### Built with
